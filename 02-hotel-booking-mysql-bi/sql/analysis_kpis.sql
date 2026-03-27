@@ -1,0 +1,1 @@
+-- KPI and analysis queries for hotel booking project
