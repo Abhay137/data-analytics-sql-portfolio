@@ -1,0 +1,1 @@
+-- Schema for hotel booking database (tables: hotels, rooms, customers, bookings, payments)
